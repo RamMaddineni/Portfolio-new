@@ -1,0 +1,209 @@
+.top-container {
+  padding-top: 80px;
+  background-color: #37e2d5;
+  position: relative;
+}
+hr {
+  border-style: dotted;
+  border-bottom: 0px;
+  border-top-width: 5px;
+  width: 5%;
+  border-color: grey;
+}
+.btn {
+  padding: 10px;
+  background-color: #37e2d5;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  position: relative;
+  top: 50px;
+}
+.footer-link1 {
+  position: relative;
+  right: 100px;
+  color: #11999e;
+}
+.footer-link2 {
+  position: relative;
+  left: 50px;
+  color: #11999e;
+}
+.bottom-p {
+  position: relative;
+  top: 50px;
+  color: #eaf6f6;
+}
+.bottom-container {
+  position: relative;
+  top: 150px;
+  background-color: #66bfbf;
+  padding: 50px;
+  /* margin: ; */
+}
+#h3-debug {
+  position: relative;
+  left: 100px;
+}
+.contact-me {
+  font-family: "Bree Serif", serif;
+}
+body {
+  /* background-color: #37e2d5; */
+
+  /* background: linear-gradient(red, transparent),
+    linear-gradient(to top left, lime, transparent),
+    linear-gradient(to top right, blue, transparent);
+  background-blend-mode: screen; */
+
+  /* background: repeating-linear-gradient(
+      -45deg,
+      transparent 0,
+      transparent 25%,
+      dodgerblue 0,
+      dodgerblue 50%
+    ),
+    repeating-linear-gradient(
+      45deg,
+      transparent 0,
+      transparent 25%,
+      tomato 0,
+      tomato 50%
+    ),
+    repeating-linear-gradient(transparent 0, transparent 25%, gold 0, gold 50%),
+    white;
+  background-blend-mode: multiply;
+  background-size: 100px 100px; */
+  margin: 0 0 auto 0;
+  text-align: center;
+}
+#bro {
+  font-family: "Bakbak One", cursive;
+  /* font-family: "Blaka", cursive; */
+  color: #210c8bc4;
+  font-size: 2.5rem;
+}
+#name {
+  font-family: "Bakbak One", cursive;
+  font-family: "Blaka", cursive;
+  font-family: "Permanent Marker", cursive;
+  /* width: 50%; */
+  margin: 0 auto 0 auto;
+}
+#name:hover {
+  color: rgb(228, 158, 18);
+}
+h1 {
+  /* text-align: center; */
+  color: darkslateblue;
+  font-size: 5.625em;
+}
+p {
+  text-align: center;
+  margin-top: 0px;
+}
+
+h1 {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.top-cloud {
+  position: relative;
+  left: 400px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+h3 {
+  color: lightcoral;
+}
+#MySkills {
+  color: navy;
+  font-size: 2.625rem;
+  font-family: "Pacifico", cursive;
+}
+#hi {
+  font-size: 2em;
+  margin: 20px auto 20px auto;
+}
+.profile {
+  font-family: "Tangerine", cursive;
+  font-size: 2em;
+}
+.skill-p {
+  font-family: "Charm", cursive;
+  line-height: 2;
+}
+.img {
+  margin: 30px;
+  width: 25%;
+}
+.C {
+  float: left;
+}
+.C_ {
+  float: right;
+}
+.html {
+  float: left;
+}
+.css {
+  float: right;
+}
+.js {
+  float: left;
+}
+.debug {
+  float: right;
+}
+#textC_ {
+  margin-left: 300px;
+}
+.contact-p {
+  line-height: 2;
+}
+/* challengeonlecture Number:44 */
+/* .top-container {
+  background-color: #37e2d5;
+  height: 200px;
+  width: 200px;
+  border: solid 10px;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin-top: 0px;
+}
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+h1 {
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+.middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border: 20px solid;
+  margin-left: 260px;
+}
+.bottom-container {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  border: 10px solid;
+  margin-left: 500px;
+} */ ;
